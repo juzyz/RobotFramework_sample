@@ -1,0 +1,32 @@
+1696916446413	geckodriver	INFO	Listening on 127.0.0.1:52512
+1696916449489	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52513" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Julia\\AppData\\Local\\Temp\\rust_mozprofilesZUxHi"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696916450217	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696916450324	Marionette	INFO	Listening on port 52525
+WebDriver BiDi listening on ws://127.0.0.1:52513
+Read port: 52525
+1696916450691	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52513/devtools/browser/84d1a46b-2bd5-460f-8558-e9d8bab27fd1
+JavaScript warning: https://r.bing.com/rp/HbkPYqcLh_xqZSd1KqLTrWN8MYY.br.js, line 0: Successfully compiled asm.js code (total compilation time 12ms)
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.microsoftonline.com."
+1696916455194	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bing.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bing.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bing.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bing.com."
+JavaScript warning: https://r.bing.com/rp/HbkPYqcLh_xqZSd1KqLTrWN8MYY.br.js, line 0: Successfully compiled asm.js code (total compilation time 7ms)
+JavaScript warning: https://r.bing.com/rp/LuZcvkWUd2OKUhrsD1Ziemeyn0I.br.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1696916468107	Marionette	INFO	Stopped listening on port 52525
+JavaScript warning: https://www.bing.com/maps/mapcontrol?partner=serp&enableinstrumentation=true&callback=initializeMap&branch=experimental, line 11: Script terminated by timeout at:
+n.getOverlayType@https://www.bing.com/maps/mapcontrol?partner=serp&enableinstrumentation=true&callback=initializeMap&branch=experimental:11:2344
+n.prototype.logObject@https://www.bing.com/maps/mapcontrol?partner=serp&enableinstrumentation=true&callback=initializeMap&branch=experimental:11:426
+t.prototype.logObject@https://www.bing.com/maps/mapcontrol?partner=serp&enableinstrumentation=true&callback=initializeMap&branch=experimental:11:4411
+fu</n.prototype.logObject@https://r.bing.com/rp/LuZcvkWUd2OKUhrsD1Ziemeyn0I.br.js:1:108833
+c</i.prototype.processData@https://r.bing.com/rp/fgmci5kCwOE1p1jsV1JzZspqiQA.br.js:1:1636
+t</n.invokeHandler@https://r.bing.com/rp/1HndWLDepDwX6v5EXMg5063wQ6M.br.js:1:46638
+ru/<@https://r.bing.com/rp/LuZcvkWUd2OKUhrsD1Ziemeyn0I.br.js:1:66507
+n/<@https://www.bing.com/maps/mapcontrol?partner=serp&enableinstrumentation=true&callback=initializeMap&branch=experimental:3:100
+
+Dynamically enable window occlusion 1
